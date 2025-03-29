@@ -1,4 +1,4 @@
-# GenAI 101: Character-Level Language Modeling
+# GenAI 101: Getting Started with Generative AI and LLMs
 
 This repository contains materials and code examples for a hands-on course on getting started with Generative AI and Large Language Models (LLMs). The course is designed to help participants understand the fundamentals of GenAI and gain practical experience working with LLMs.
 
