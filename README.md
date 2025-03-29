@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="docs/images/genai101-logo.png" alt="GenAI 101 Logo" width="400"/>
-</p>
-
-# GenAI 101: Character-Level Language Modeling
+# GenAI 101: Character-Level Language Modeling <img src="docs/images/genai101-logo.png" alt="GenAI 101 Logo" width="50" align="center"/>
 
 This repository contains educational materials for understanding character-level language modeling using the Shakespeare dataset. The project demonstrates fundamental concepts in natural language processing and deep learning.
 
