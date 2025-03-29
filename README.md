@@ -1,4 +1,10 @@
-# GenAI 101: Getting Started with Generative AI and LLMs
+<p align="center">
+  <img src="docs/images/genai101-logo.png" alt="GenAI 101 Logo" width="400"/>
+</p>
+
+# GenAI 101: Character-Level Language Modeling
+
+This repository contains educational materials for understanding character-level language modeling using the Shakespeare dataset. The project demonstrates fundamental concepts in natural language processing and deep learning.
 
 This repository contains materials and code examples for a hands-on course on getting started with Generative AI and Large Language Models (LLMs). The course is designed to help participants understand the fundamentals of GenAI and gain practical experience working with LLMs.
 
