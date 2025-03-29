@@ -30,8 +30,6 @@ This script will:
 3. Set up the Jupyter kernel
 4. Configure everything you need to run the notebooks
 
-After the setup is complete, you can start Jupyter Notebook:
-
 ## Project Structure
 
 - `notebooks/`: Contains Jupyter notebooks with the course materials
