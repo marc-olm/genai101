@@ -30,9 +30,6 @@ fi
 print_message "Activating virtual environment and installing requirements..."
 source .venv/bin/activate
 
-# Upgrade pip
-python -m pip install --upgrade pip
-
 # Install requirements
 print_message "Installing requirements..."
 pip install -r requirements.txt
