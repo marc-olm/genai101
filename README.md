@@ -13,6 +13,7 @@ This course will cover:
 - Best practices for working with LLMs
 - Real-world applications and use cases
 
+This course uses local open-source LLMs via [ollama](https://ollama.com/) for inference and embedding tasks.
 ## Setup
 
 The easiest way to get started is to use our setup script:
