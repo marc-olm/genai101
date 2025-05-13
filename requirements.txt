@@ -9,3 +9,4 @@ tqdm==4.66.1
 ollama==0.6.6
 chromadb==1.0.0
 pandas==2.2.3
+jupyterlab==4.2.5
