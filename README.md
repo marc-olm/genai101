@@ -15,9 +15,19 @@ This course will cover:
 
 This course uses local open-source LLMs via [ollama](https://ollama.com/) for inference and embedding tasks.
 
+## 📒 Running notebooks in Google Colab 
+- The notebooks and dependencies are self-contained to be runnable from a Google Colab notebook. 
+- Open [Google Colab](https://colab.research.google.com/) to run the code directly in your browser: Choose GitHub option, enter the current GitHub URL https://github.com/marc-olm/genai101, search and select the notebook. 
+
+
+| Notebook | Open in Colab |
+|----------|----------------|
+| Language Modelling 101 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marc-olm/genai101/blob/main/notebooks/tokenization_and_embeddings.ipynb) |
+| Your first RAG pipeline | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marc-olm/genai101/blob/main/notebooks/rag_playground.ipynb) |
+
 ## Setup
 
-The easiest way to get started is to use our setup script:
+Alternatively, you can setup your local environment, download the repo and code on your machine:
 
 ```bash
 # Clone the repository
@@ -40,17 +50,6 @@ This script will:
 - `data/`: Contains the Shakespeare dataset
 - `requirements.txt`: Lists all Python dependencies
 - `setup.sh`: Setup script to configure the environment
-
-## 📒 Running notebooks in Google Colab 
-- The notebooks and dependencies are self-contained to be runnable from a Google Colab notebook. 
-- Open [Google Colab](https://colab.research.google.com/) to run the code directly in your browser: Choose GitHub option, enter the current GitHub URL https://github.com/marc-olm/genai101, search and select the notebook. 
-
-
-| Notebook | Open in Colab |
-|----------|----------------|
-| Language Modelling 101 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marc-olm/genai101/blob/main/notebooks/tokenization_and_embeddings.ipynb) |
-| Your first RAG pipeline | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marc-olm/genai101/blob/main/notebooks/rag_playground.ipynb) |
-
 
 ## License
 
