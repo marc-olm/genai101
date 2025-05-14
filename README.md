@@ -14,6 +14,7 @@ This course will cover:
 - Real-world applications and use cases
 
 This course uses local open-source LLMs via [ollama](https://ollama.com/) for inference and embedding tasks.
+
 ## Setup
 
 The easiest way to get started is to use our setup script:
@@ -41,10 +42,14 @@ This script will:
 - `setup.sh`: Setup script to configure the environment
 
 ## Running notebooks in Google Colab 
+- The notebooks and dependencies are self-contained to be runnable from a Google Colab notebook. 
+- Open the to write and run python code directly in your browser [Google Colab](https://colab.research.google.com/): Choose GitHub option, enter the current GitHub URL https://github.com/marc-olm/genai101, search and select the notebook. 
 
-- Open the to write and run python code directly in your browser [Google Colab](https://colab.research.google.com/)
-- Open the notebook: Choose GitHub option, enter the current GitHub URL https://github.com/marc-olm/genai101, search and select the notebook 
+Direct links to relevant notebooks: 
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marc-olm/genai101/blob/main/notebooks/tokenization_and_embeddings.ipynb)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marc-olm/genai101/blob/main/notebooks/rag_playground.ipynb)
+
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details. 
+This project is licensed under the [MIT License](license)
