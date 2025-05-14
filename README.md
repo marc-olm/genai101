@@ -40,6 +40,11 @@ This script will:
 - `requirements.txt`: Lists all Python dependencies
 - `setup.sh`: Setup script to configure the environment
 
+## Running notebooks in Google Colab 
+
+- Open the to write and run python code directly in your browser [Google Colab](https://colab.research.google.com/)
+- Open the notebook: Choose GitHub option, enter the current GitHub URL https://github.com/marc-olm/genai101, search and select the notebook 
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details. 
