@@ -3,9 +3,11 @@
 This repository contains materials and code examples for a hands-on course on getting started with Generative AI and Large Language Models (LLMs). The course is designed to help participants understand the fundamentals of GenAI and gain practical experience working with LLMs.
 
 ## 📒 Running notebooks in Google Colab 
-- The notebooks and dependencies are self-contained to be runnable from a Google Colab notebook. 
-- Open [Google Colab](https://colab.research.google.com/) to run the code directly in your browser: Choose GitHub option, enter the current GitHub URL https://github.com/marc-olm/genai101, search and select the notebook. 
 
+- The notebooks and dependencies are self-contained to be runnable from a Google Colab. 
+- In general, open [Google Colab](https://colab.research.google.com/) to run the code directly in your browser. Choose GitHub option, enter the current GitHub URL https://github.com/marc-olm/genai101, search and select the notebook. 
+
+- The following direct links to relevant notebooks are also provided: 
 
 | Notebook | Open in Colab |
 |----------|----------------|
@@ -13,7 +15,7 @@ This repository contains materials and code examples for a hands-on course on ge
 | Your first RAG pipeline | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marc-olm/genai101/blob/main/notebooks/rag_playground.ipynb) |
 
 
-## Local setup
+## 💻 Local setup
 
 Alternatively, you can setup your local environment, download the repo and code on your machine:
 
