@@ -43,11 +43,11 @@ This script will:
 
 ## Running notebooks in Google Colab 
 - The notebooks and dependencies are self-contained to be runnable from a Google Colab notebook. 
-- Open the to write and run python code directly in your browser [Google Colab](https://colab.research.google.com/): Choose GitHub option, enter the current GitHub URL https://github.com/marc-olm/genai101, search and select the notebook. 
+- Open [Google Colab](https://colab.research.google.com/) to run the code directly in your browser: Choose GitHub option, enter the current GitHub URL https://github.com/marc-olm/genai101, search and select the notebook. 
 
 Direct links to relevant notebooks: 
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marc-olm/genai101/blob/main/notebooks/tokenization_and_embeddings.ipynb)
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marc-olm/genai101/blob/main/notebooks/rag_playground.ipynb)
+- Language Modelling [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marc-olm/genai101/blob/main/notebooks/tokenization_and_embeddings.ipynb)
+- RAG pipeline [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marc-olm/genai101/blob/main/notebooks/rag_playground.ipynb)
 
 
 ## License
