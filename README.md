@@ -46,8 +46,8 @@ This script will:
 - Open [Google Colab](https://colab.research.google.com/) to run the code directly in your browser: Choose GitHub option, enter the current GitHub URL https://github.com/marc-olm/genai101, search and select the notebook. 
 
 Direct links to relevant notebooks: 
-- Language Modelling [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marc-olm/genai101/blob/main/notebooks/tokenization_and_embeddings.ipynb)
-- RAG pipeline [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marc-olm/genai101/blob/main/notebooks/rag_playground.ipynb)
+- Language Modelling 101 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marc-olm/genai101/blob/main/notebooks/tokenization_and_embeddings.ipynb)
+- Your first RAG pipeline [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marc-olm/genai101/blob/main/notebooks/rag_playground.ipynb)
 
 
 ## License
