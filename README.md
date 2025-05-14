@@ -10,7 +10,6 @@ This course will cover:
 - Introduction to Generative AI and LLMs
 - Understanding different types of LLMs and their applications
 - Hands-on experience with popular LLM frameworks and tools
-- Best practices for working with LLMs
 - Real-world applications and use cases
 
 This course uses local open-source LLMs via [ollama](https://ollama.com/) for inference and embedding tasks.
@@ -25,7 +24,8 @@ This course uses local open-source LLMs via [ollama](https://ollama.com/) for in
 | Language Modelling 101 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marc-olm/genai101/blob/main/notebooks/tokenization_and_embeddings.ipynb) |
 | Your first RAG pipeline | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marc-olm/genai101/blob/main/notebooks/rag_playground.ipynb) |
 
-## Setup
+
+## Local setup
 
 Alternatively, you can setup your local environment, download the repo and code on your machine:
 
