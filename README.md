@@ -9,12 +9,11 @@ This repository contains materials and code examples for a hands-on course on ge
 
 - The following direct links to relevant notebooks are also provided: 
 
-<div align="center">
 | Notebook | Open in Colab |
 |----------|----------------|
 | Language Modelling 101 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marc-olm/genai101/blob/main/notebooks/tokenization_and_embeddings.ipynb) |
 | Your first RAG pipeline | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marc-olm/genai101/blob/main/notebooks/rag_playground.ipynb) |
-</div>
+
 
 ## 💻 Local setup
 
