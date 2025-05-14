@@ -1,0 +1,6 @@
+,chunk_id,question,retrieval_rank,retrieved_chunks
+0,1," Who do the citizens of Rome blame for the food scarcity in this passage from ""Corpus Christi""?",0,"['1', '4', '40', '39', '53', '5', '3', '42', '44', '41', '16', '13', '14', '49', '0', '37', '19', '51', '52', '35']"
+1,20, Who does Menenius criticize alongside Brutus for their pride and hypocrisy?,0,"['20', '39', '36', '40', '19', '21', '44', '37', '27', '45', '51', '38', '47', '35', '52', '4', '41', '1', '55', '30']"
+2,35, Who does Brutus warn the citizens against electing as a consul?,4,"['36', '25', '38', '42', '35', '39', '30', '52', '41', '1', '37', '51', '44', '0', '34', '40', '4', '27', '33', '21']"
+3,42, Who orders the seizure of Coriolanus in this passage from Coriolanus?,5,"['37', '51', '18', '46', '53', '42', '29', '40', '26', '39', '38', '49', '27', '17', '41', '55', '47', '33', '34', '32']"
+4,48, What is Coriolanus' initial sentiment towards complying with his mother's request?,12,"['54', '47', '18', '49', '46', '55', '24', '33', '26', '53', '51', '32', '48', '9', '29', '52', '23', '17', '22', '28']"
