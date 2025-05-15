@@ -17,7 +17,7 @@ This repository contains materials and code examples for a hands-on course on ge
 
 ## 💻 Local setup
 
-Alternatively, you can setup your local environment, download the repo and code on your machine:
+Alternatively, you can setup your local environment in your macOS machine, clone the repo and run locally:
 
 ```bash
 # Clone the repository
