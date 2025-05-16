@@ -1,6 +1,6 @@
 #  <img src="docs/images/genai101-logo.png" alt="GenAI 101 Logo" width="70" align="center"/> GenAI 101: Intro to GenAI and LLMs
 
-This repository contains materials and code examples for a hands-on course on getting started with Generative AI and Large Language Models (LLMs). The course is designed to help participants understand the fundamentals of GenAI and gain practical experience working with LLMs. Get warmed up with [lmarena.ai/](https://lmarena.ai/)! 
+This repository contains materials and code examples for a hands-on course on getting started with Generative AI and Large Language Models (LLMs). The course is designed to help participants understand the fundamentals of GenAI and gain practical experience working with LLMs. Get warmed up with [lmarena.ai](https://lmarena.ai/)! 
 
 ## 📒 Running notebooks in Google Colab 
 
