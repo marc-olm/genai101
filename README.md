@@ -43,6 +43,11 @@ This course uses local open-source LLMs via [ollama](https://ollama.com/) for in
 - `requirements.txt`: Lists all Python dependencies
 - `setup.sh`: Setup script to configure the environment
 
+## References 
+
+- RNNs parts are inspired by [rnn-effectiveness](https://karpathy.github.io/2015/05/21/rnn-effectiveness/) and code adapted from by [github.com/karpathy/char-rnn](https://github.com/karpathy/char-rnn) by Andrej Karpathy
+
+
 ## License
 
 This project is licensed under the [MIT License](license)
